@@ -1,0 +1,25 @@
+
+h1{
+    text-align: center;
+color:purple;
+background-color:aqua;
+
+}
+
+#p1{
+    color:blue;
+    border: solid 2px red;
+    background-color: #0f0;
+    text-align: center;
+    font-size: large;
+}
+
+#p2{
+    color: rgb(255, 0, 0);
+    
+}
+
+#p3{
+    color: #0f0;
+}
+
